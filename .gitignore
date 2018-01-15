@@ -1,0 +1,7 @@
+/backup/
+/logs/
+/log/
+/webroot/
+/out.*
+/bin/remote.py
+/client_msg_records

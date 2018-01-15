@@ -1,0 +1,25 @@
+[
+  {
+    "index": 1,
+    "path": "${projects_path}/../../hall37/source/freetime"
+  },
+  {
+    "index": 2,
+    "path": "${projects_path}/../../hall37/source/tuyoo"
+  },
+  {
+    "gameId": 9999,
+    "index": 3,
+    "path": "${projects_path}/../../hall37/source/hall"
+  },
+  {
+    "gameId": 9993,
+    "index": 4,
+    "path": "${projects_path}/../../hall37/source/difang"
+  },
+  {
+    "gameId": 711,
+    "index": 10,
+    "path": "${projects_path}/../../hall37/source/qujing"
+  }
+]

@@ -1,0 +1,208 @@
+{
+    "mysql" : {
+        "ads" : [
+            "127.0.0.1", 
+            3306, 
+            "ads", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "beauty" : [
+            "127.0.0.1", 
+            3306, 
+            "beauty", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "user0" : [
+            "127.0.0.1", 
+            3306, 
+            "tydata0", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "user1" : [
+            "127.0.0.1", 
+            3306, 
+            "tydata1", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "user2" : [
+            "127.0.0.1", 
+            3306, 
+            "tydata2", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "user3" : [
+            "127.0.0.1", 
+            3306, 
+            "tydata3", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "user4" : [
+            "127.0.0.1", 
+            3306, 
+            "tydata4", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "user5" : [
+            "127.0.0.1", 
+            3306, 
+            "tydata5", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "user6" : [
+            "127.0.0.1", 
+            3306, 
+            "tydata6", 
+            "tuyoogame", 
+            "tuyoogame"
+        ], 
+        "user7" : [
+            "127.0.0.1", 
+            3306, 
+            "tydata7", 
+            "tuyoogame", 
+            "tuyoogame"
+        ]
+    }, 
+    "redis" : {
+        "rank" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            9, 
+            10
+        ], 
+        "dizhu" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            4, 
+            10
+        ], 
+        "friend" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            2, 
+            10
+        ], 
+        "geo" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            6, 
+            10
+        ], 
+        "keymap" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            5, 
+            10
+        ], 
+        "locker" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            10, 
+            10
+        ], 
+        "mix" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            1, 
+            10
+        ], 
+        "replay" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            2, 
+            10
+        ], 
+        "online" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            6, 
+            10
+        ], 
+        "paydata" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            3, 
+            10
+        ], 
+        "table0" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            11, 
+            10
+        ], 
+        "table1" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            12, 
+            10
+        ], 
+        "table2" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            11, 
+            10
+        ], 
+        "table3" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            12, 
+            10
+        ], 
+        "user0" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            7, 
+            10
+        ], 
+        "user1" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            8, 
+            10
+        ], 
+        "user2" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            7, 
+            10
+        ], 
+        "user3" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            8, 
+            10
+        ], 
+        "user4" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            7, 
+            10
+        ], 
+        "user5" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            8, 
+            10
+        ], 
+        "user6" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            7, 
+            10
+        ], 
+        "user7" : [
+            "127.0.0.1",
+            "${{port_redis}}", 
+            8, 
+            10
+        ]
+    }
+}
